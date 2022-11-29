@@ -15,7 +15,7 @@
           "book_name": "The Dairy of Anne Frank",
           "author": "Anne Frank",
           "genre": "History",
-          "edition": "1994",
+          "edition": "2022",
           "publisher": "Penguin",
           "cost": 3000,
           "borrowed": true
@@ -25,7 +25,7 @@
           "book_name": "Ikigai",
           "author": "shino abas",
           "genre": "Business",
-          "edition": "2014",
+          "edition": "2020",
           "publisher": "Japanese Co",
           "cost": 1111,
           "borrowed": false
@@ -45,7 +45,7 @@
           "book_name": "A Passage to India",
           "author": "E.M. Foster",
           "genre": "History",
-          "edition": "2021",
+          "edition": "2022",
           "publisher": "Bloomsbury",
           "cost": 3142,
           "borrowed": false
@@ -55,7 +55,7 @@
           "book_name": "A Revenue Stamp",
           "author": "Amrita Pritam",
           "genre": "Science",
-          "edition": "2021",
+          "edition": "2020",
           "publisher": "Bloomsbury",
           "cost": 9855,
           "borrowed": false
@@ -75,7 +75,7 @@
           "book_name": "Adventures of Sherlock Holmes",
           "author": "Arthur Conan Doyle",
           "genre": "History",
-          "edition": "2021",
+          "edition": "2020",
           "publisher": "Bloomsbury",
           "cost": 1452,
           "borrowed": true
@@ -85,7 +85,7 @@
           "book_name": "Adventures of Tom Sawyer",
           "author": "Mark Twain",
           "genre": "fiction",
-          "edition": "2021",
+          "edition": "2022",
           "publisher": "Bloomsbury",
           "cost": 2222,
           "borrowed": false
@@ -95,7 +95,7 @@
           "book_name": "Ain - i - Akbari",
           "author": "Abul Fazl",
           "genre": "Tech",
-          "edition": "2021",
+          "edition": "2020",
           "publisher": "Bloomsbury",
           "cost": 999,
           "borrowed": true
