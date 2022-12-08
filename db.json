@@ -1,105 +1,22 @@
 {
-    "books": [
-        {  "id" : 1,
-          "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-          "book_name": "Harry Potter and the Philosopher's Stone",
-          "author": "J. K. Rowling",
-          "genre": "fiction",
-          "edition": "2021",
-          "publisher": "Bloomsbury",
-          "cost": 1299,
-          "borrowed": false
-        },
-        { "id" : 2,
-          "image_url": "https://cdn.pixabay.com/photo/2021/04/21/10/21/sculpture-6195994__340.jpg",
-          "book_name": "The Dairy of Anne Frank",
-          "author": "Anne Frank",
-          "genre": "History",
-          "edition": "2022",
-          "publisher": "Penguin",
-          "cost": 3000,
-          "borrowed": true
-        },
-        { "id" : 3,
-          "image_url": "https://cdn.pixabay.com/photo/2015/10/05/17/09/minion-972908__340.jpg",
-          "book_name": "Ikigai",
-          "author": "shino abas",
-          "genre": "Business",
-          "edition": "2020",
-          "publisher": "Japanese Co",
-          "cost": 1111,
-          "borrowed": false
-        },
-        { "id" : 4,
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Narayana_Murthy_CIF_%28cropped%29.JPG/330px-Narayana_Murthy_CIF_%28cropped%29.JPG",
-          "book_name": "A Better India: A Better World",
-          "author": "Narayana Murthy",
-          "genre": "Tech",
-          "edition": "2021",
-          "publisher": "Bloomsbury",
-          "cost": 6452,
-          "borrowed": true
-        },
-        { "id" : 5,
-          "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/APassageToIndia.jpg/330px-APassageToIndia.jpg",
-          "book_name": "A Passage to India",
-          "author": "E.M. Foster",
-          "genre": "History",
-          "edition": "2022",
-          "publisher": "Bloomsbury",
-          "cost": 3142,
-          "borrowed": false
-        },
-        {   "id" : 6,
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Amrita_Pritam_%281919_%E2%80%93_2005%29_%2C_in_1948.jpg",
-          "book_name": "A Revenue Stamp",
-          "author": "Amrita Pritam",
-          "genre": "Science",
-          "edition": "2020",
-          "publisher": "Bloomsbury",
-          "cost": 9855,
-          "borrowed": false
-        },
-        { "id" : 7,
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Tales_serial.jpg",
-          "book_name": "A Tale of Two Cities",
-          "author": "Charles Darwin",
-          "genre": "Science",
-          "edition": "2021",
-          "publisher": "Bloomsbury",
-          "cost": 1000,
-          "borrowed": false
-        },
-        { "id" : 8,
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Adventures_of_sherlock_holmes.jpg/330px-Adventures_of_sherlock_holmes.jpg",
-          "book_name": "Adventures of Sherlock Holmes",
-          "author": "Arthur Conan Doyle",
-          "genre": "History",
-          "edition": "2020",
-          "publisher": "Bloomsbury",
-          "cost": 1452,
-          "borrowed": true
-        },
-        { "id" : 9,
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Tom_Sawyer_1876_frontispiece.jpg/330px-Tom_Sawyer_1876_frontispiece.jpg",
-          "book_name": "Adventures of Tom Sawyer",
-          "author": "Mark Twain",
-          "genre": "fiction",
-          "edition": "2022",
-          "publisher": "Bloomsbury",
-          "cost": 2222,
-          "borrowed": false
-        },
-        { "id" : 10,
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Court_of_Akbar_from_Akbarnama.jpg/300px-Court_of_Akbar_from_Akbarnama.jpg",
-          "book_name": "Ain - i - Akbari",
-          "author": "Abul Fazl",
-          "genre": "Tech",
-          "edition": "2020",
-          "publisher": "Bloomsbury",
-          "cost": 999,
-          "borrowed": true
-        }
-      
-    ]
-  }
+  "users": [
+    {
+      "id": 1,
+      "username": "shai94",
+      "image": "https://cdn.pixabay.com/photo/2015/10/05/17/09/minion-972908__340.jpg",
+      "name": "shailesh",
+      "email": "abc@gmail.com",
+      "password": "123",
+      "token": "true"
+    },
+    {
+      "id": 2,
+      "username": "shai94",
+      "image": "https://cdn.pixabay.com/photo/2015/10/05/17/09/minion-972908__340.jpg",
+      "name": "Shailesh Sampat",
+      "email": "shailesh.webdevelopment@gmail.com",
+      "password": "masaischool",
+      "token": "true"
+    }
+  ]
+}
