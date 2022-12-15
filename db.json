@@ -1,22 +1,12 @@
 {
-  "users": [
+  "posts": [
     {
       "id": 1,
-      "username": "shai94",
-      "image": "https://cdn.pixabay.com/photo/2015/10/05/17/09/minion-972908__340.jpg",
       "name": "shailesh",
-      "email": "abc@gmail.com",
-      "password": "123",
-      "token": "true"
-    },
-    {
-      "id": 2,
-      "username": "shai94",
-      "image": "https://cdn.pixabay.com/photo/2015/10/05/17/09/minion-972908__340.jpg",
-      "name": "Shailesh Sampat",
-      "email": "shailesh.webdevelopment@gmail.com",
-      "password": "masaischool",
-      "token": "true"
+      "age": 2,
+      "gender": "male",
+      "country": "india",
+      "profession": "student"
     }
   ]
 }
