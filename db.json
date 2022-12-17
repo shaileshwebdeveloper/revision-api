@@ -2,11 +2,39 @@
   "posts": [
     {
       "id": 1,
-      "name": "shailesh",
-      "age": 2,
-      "gender": "male",
-      "country": "ind",
-      "profession": "student"
+      "company": "Ellette",
+      "postedAt": "2021-03-30",
+      "city": "Gangtok",
+      "location": "American Samoa",
+      "role": "Frontend",
+      "level": "Junior",
+      "contract": "Full Time",
+      "position": " Backend Developer",
+      "language": "Java"
+    },
+    {
+      "company": "Avanzar",
+      "city": "Mumbai",
+      "location": "Vashi",
+      "role": "Backend",
+      "level": "Senior",
+      "position": "Junior Frontend Developer",
+      "language": "Java",
+      "contract": "Part time",
+      "postedAt": "2022-12-14",
+      "id": 2
+    },
+    {
+      "company": "Masai",
+      "city": "Bangalore",
+      "location": "Kamothe",
+      "role": "Frontend",
+      "level": "Senior",
+      "position": "Backend Developer",
+      "language": "Javascript",
+      "contract": "Full Time",
+      "postedAt": "2022-12-18",
+      "id": 3
     }
   ]
 }
