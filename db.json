@@ -1,39 +1,9 @@
 {
-  "posts": [
+  "notes": [
     {
-      "id": 1,
-      "company": "Ellette",
-      "postedAt": "2021-03-30",
-      "city": "Gangtok",
-      "location": "American Samoa",
-      "role": "Frontend",
-      "level": "Junior",
-      "contract": "Full Time",
-      "position": " Backend Developer",
-      "language": "Java"
-    },
-    {
-      "company": "Avanzar",
-      "city": "Mumbai",
-      "location": "Vashi",
-      "role": "Backend",
-      "level": "Senior",
-      "position": "Junior Frontend Developer",
-      "language": "Java",
-      "contract": "Part time",
-      "postedAt": "2022-12-14",
-      "id": 2
-    },
-    {
-      "company": "Masai",
-      "city": "Bangalore",
-      "location": "Kamothe",
-      "role": "Frontend",
-      "level": "Senior",
-      "position": "Backend Developer",
-      "language": "Javascript",
-      "contract": "Full Time",
-      "postedAt": "2022-12-18",
+      "title": "SSSSS",
+      "description": "1111",
+      "date": "2022-12-21",
       "id": 3
     }
   ]
